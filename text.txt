@@ -1,0 +1,10 @@
+https://themewagon.com/themes/fruitables-free/
+
+<i class="fa-regular fa-user-shield" style="color: #ffffff;"></i>  user shield
+
+<i class="fa-solid fa-right-left" style="color: #ffffff;"></i>  Return
+
+<i class="fa-solid fa-truck" style="color: #ffffff;"></i>  truck shipping
+
+<i class="fa-solid fa-phone" style="color: #ffffff;"></i> call
+
