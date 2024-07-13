@@ -1,0 +1,162 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Raleway", "sans-serif";
+}
+
+.header {
+    margin: 0rem 7.813rem;
+}
+
+.menubar {
+    display: flex;
+    margin: 1.8rem 7.813rem;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.home-1 {
+    margin-top: 6%;
+    margin: 8rem 0rem;
+}
+
+.home1-container {
+    width: 54vmin;
+    height: 40vmin;
+    top: 15%;
+    left: 75%;
+}
+
+
+.home-2 {
+    display: flex;
+    margin: 15rem 0rem;
+    justify-content: space-between;
+}
+
+.home2-container{
+    display: grid;
+    grid-template-columns: 17.6rem 17.6rem 17.6rem 17.6rem;
+}
+
+.home2-container .text p{
+    width: 15rem;
+    display: flex;
+}
+
+.products {
+    margin: 5rem 7.813rem;
+}
+
+
+.navbar .list li {
+    list-style: none;
+    margin: 0rem .625rem 0rem .625rem;
+    border-radius: 1.563rem;
+    padding: 0.5rem 1.5rem;
+    background-color: #e2e7ec;
+}
+
+#product1 .info-box {
+    background-color: #81c408;
+    border-radius: .625rem;
+    padding: 2rem 3.8rem;
+    margin: -4rem 3.5rem;
+}
+
+#product2 .info-box {
+    background-color: #ffffff;
+    margin: -4rem 2.5rem;
+    border-radius: .625rem;
+    padding: 1.7rem 3rem;
+}
+
+#product3 .info-box {
+    background-color: #ffc107;
+    border-radius: .625rem;
+    padding: 1.7rem 2rem;
+    margin: -4rem 3.7rem;
+}
+
+.cart {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    margin: 1.5rem 0rem;
+}
+
+/* .cart p{
+    margin-left: -3rem;
+} */
+
+.cart button{
+    margin-left: -3rem;
+    margin-top: 1rem;
+}
+
+.sale {
+    margin: 12rem 7.813rem;
+}
+
+.information {
+    background-color: #FFB524;
+}
+
+.information-content {
+    margin: 0rem 7.813rem;
+}
+
+.information-text{
+    margin-right: 2rem;
+}
+
+.banner img {
+    width: 35rem;
+}
+
+
+.bestseller-product {
+    display: grid;
+    grid-template-columns: 23.5rem 23.5rem 23.5rem;
+    margin: 0rem 7.813rem;
+}
+
+.bestseller-items-image img {
+    height: 8rem;
+    width: 9rem;
+    border-radius: 50%;
+}
+
+.bestseller-items-info button {
+    margin-bottom: 1rem;
+}
+
+
+.Quality {
+    display: flex;
+    align-items: center;
+    margin: 3rem 7.813rem;
+    justify-content: space-between;
+}
+
+.Quality-container {
+    display: grid;
+    background-color: #dfe4e9;
+    grid-template-columns:  17.4rem 17.4rem 17.4rem 17.4rem;
+    justify-content: space-between;
+}
+
+
+.description-info {
+    margin: 7.813rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.questions {
+    display: flex;
+    justify-content: space-between;
+    margin: 0rem 7.813rem;
+}
